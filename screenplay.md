@@ -240,5 +240,3 @@ FADE OUT.
 **END.**
 
 ---
-
-*All scenes validated for format, pacing, dialogue, continuity, and metadata completeness per the provided screenplay KB.*
