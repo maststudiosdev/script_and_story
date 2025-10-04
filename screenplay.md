@@ -1,5 +1,3 @@
-Certainly! Below is a refined, properly formatted screenplay for your story premise, following the provided knowledge base and best screenplay practices. Each scene includes the required metadata. Act breaks are implied through rising tension and scene order. Pacing, dialogue, and character arcs are carefully balanced. (Page/time estimates are for guidance only.)
-
 ---
 
 ### FADE IN:
